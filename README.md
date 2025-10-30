@@ -7,6 +7,9 @@ All application data (jobs, candidates, assessments) persists locally, simulatin
 ---
 
 ##  Features Overview
+<iframe width="560" height="315" src="https://youtu.be/7PCZbwAM8UQ?si=ei1unayD9VuQVIfd" 
+title="YouTube video" frameborder="0" allowfullscreen></iframe>
+
 
 ### 1. Jobs Management
 - Create, edit, archive, and reorder jobs
