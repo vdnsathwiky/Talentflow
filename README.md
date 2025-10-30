@@ -5,10 +5,14 @@ TalentFlow is a front-end React application that simulates a hiring management s
 All application data (jobs, candidates, assessments) persists locally, simulating a complete full-stack experience without an actual backend server.
 
 ---
+<p align="center">
+  <a href="https://youtu.be/7PCZbwAM8UQ">
+    <img src="https://img.youtube.com/vi/7PCZbwAM8UQ/0.jpg" alt="Watch the video" width="560"/>
+  </a>
+</p>
 
 ##  Features Overview
-<iframe width="560" height="315" src="https://youtu.be/7PCZbwAM8UQ?si=ei1unayD9VuQVIfd" 
-title="YouTube video" frameborder="0" allowfullscreen></iframe>
+
 
 
 ### 1. Jobs Management
