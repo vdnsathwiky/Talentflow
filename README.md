@@ -6,10 +6,12 @@ All application data (jobs, candidates, assessments) persists locally, simulatin
 
 ---
 <p align="center">
-  <a href="https://drive.google.com/file/d/1PLkjNwWpTwhVQYPVaG_x0e5pueOFoGF4/view?usp=sharing">
-    <img src="https://drive.google.com/file/d/1J3yWuD10Zy5BqxT9a1lHyAqIQZkZsZez/view?usp=sharing" alt="Watch the video" width="560"/>
-  </a>
+  <video width="560" autoplay muted loop playsinline>
+    <source src="https://drive.google.com/uc?export=preview&id=1PLkjNwWpTwhVQYPVaG_x0e5pueOFoGF4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
+
 
 ##  Features Overview
 
