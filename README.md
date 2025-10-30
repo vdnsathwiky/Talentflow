@@ -7,7 +7,7 @@ All application data (jobs, candidates, assessments) persists locally, simulatin
 ---
 <p align="center">
   <a href="https://youtu.be/7PCZbwAM8UQ">
-    <img src="https://img.youtube.com/vi/7PCZbwAM8UQ/0.jpg" alt="Watch the video" width="560"/>
+    <img src="https://drive.google.com/file/d/1PLkjNwWpTwhVQYPVaG_x0e5pueOFoGF4/view?usp=sharing" alt="Watch the video" width="560"/>
   </a>
 </p>
 
